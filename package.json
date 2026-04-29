@@ -1,0 +1,10 @@
+{
+  "name": "ebook-lead-magnet-generator",
+  "version": "1.0.0",
+  "description": "ClawHub skill: ebook-lead-magnet-generator",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "productivity"
+  }
+}
